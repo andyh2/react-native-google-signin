@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = package['homepage']
-  s.source         = { :git => 'https://github.com/react-native-community/react-native-google-signin.git', :tag => 'v' + package['version'] }
+  s.source         = { :git => 'https://github.com/andyh2/react-native-google-signin.git', :tag => 'v' + package['version'] }
   
 
   s.social_media_url   = "https://github.com/react-native-community/react-native-google-signin/pull/284/files"
